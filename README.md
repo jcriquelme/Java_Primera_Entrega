@@ -2,6 +2,7 @@
 Primera Entrega del proyecto del 2º Cuatrimestre
 
 Estructura general del proyecto
+
 A.    El proyecto debe contener tres carpetas: src, data y doc.
 B.    La carpeta data debe incluir el fichero CSV del dataset seleccionado.
 C.    La carpeta src debe incluir el código fuente, organizado en paquetes. Crear un paquete fp. Crear dentro de él un paquete utiles para las clases de utilidad, un paquete common para los tipos auxiliares, y un paquete para los tipos del dominio de trabajo (p.ej. música, cine…). Por último, crear un paquete test dentro del paquete de los tipos.
