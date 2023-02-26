@@ -1,7 +1,7 @@
 ### Java_Primera_Entrega
-##Primera Entrega del proyecto del 2º Cuatrimestre
+## Primera Entrega del proyecto del 2º Cuatrimestre
 
-#Estructura general del proyecto
+# Estructura general del proyecto
 
 A.    El proyecto debe contener tres carpetas: src, data y doc.
 
@@ -11,7 +11,7 @@ C.    La carpeta src debe incluir el código fuente, organizado en paquetes. Cre
 
 D.    El proyecto debe contener un fichero README.md donde se describirán los datos y los tipos implementados.
 
-#Entrega  
+# Entrega  
 
 Elegir un tipo, que deberá tener como mínimo 8 propiedades entre básicas y derivadas, y deberán ser de tipos variados (integer, float/double, String, boolean, fecha y hora, enumerado). Además, deberá tener una propiedad de un tipo auxiliar implementada mediante un record y otra, obligatoriamente, de tipo lista o conjunto.
 Crear la estructura básica del proyecto.
