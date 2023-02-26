@@ -30,5 +30,7 @@ Implementar el tipo base, que debe cumplir los siguientes requisitos:
 •    Tener definidas al menos dos restricciones sobre las propiedades de tipos diferentes: limitación de fechas, propiedades numéricas entre valores, cadenas de caracteres con un prefijo o con un separador, etc.
 
 Realizar un test del tipo en el que se comprueben los resultados de cada uno de los métodos.
+
 La entrega debe incluir la implementación y prueba del tipo, así como la documentación del tipo, tanto en el fichero README.md como en el propio código mediante comentarios de documentación.
+
 Para el tipo auxiliar (record) puede usar atributos que guarden pares de valores: intervalo de fecha de inicio y fin, resultados deportivos, coordenadas geográficas, ciudad y nación, dos contadores como el de pasajeros y tripulación, conciertos al aire libre o en local cerrado, etc.
